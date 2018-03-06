@@ -50,13 +50,29 @@ API 文档
            "success": true
       }
    * 登出
-           get访问http://account.geetest.com/layout/
+          <br> get访问http://account.geetest.com/layout/
       ```
        {
-          "message": "登出成功", 
+           "message": "登出成功", 
            "success": true
        }
       ```
+     * 获取登录用户
+     get访问  http://account.geetest.com/user/
+     ```
+     {
+         "message": "[User 1 wangqifan]", 
+         "success": true
+     }
+     ```
+     * 修改密码
      
+     get和post都可以，以get为例 http://account.geetest.com/changepassword/?password='world'
+     ```
+     {
+         "message": "修改密码成功", 
+         "success": true
+      }
+     ```
    
    
