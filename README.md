@@ -5,12 +5,12 @@
 
 安装
 ------------
-如果你是linux用户 For Linux <br>
+  * 如果你是linux用户 For Linux <br>
 
   
    pip install -r requirements.txt
 
-如果你是 Windows用户, <br>
+  * 如果你是 Windows用户, <br>
     pass
 
 运行
