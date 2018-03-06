@@ -51,12 +51,13 @@ API 文档
       }
       ```
       * 登出
-      get访问http://account.geetest.com/layout/
+      
+           get访问http://account.geetest.com/layout/
       ```
-         {
-           "message": "登出成功", 
-            "success": true
-         }
+       {
+          "message": "登出成功", 
+           "success": true
+       }
       ```
      
    
