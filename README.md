@@ -49,8 +49,7 @@ API 文档
            "message": "登录成功", 
            "success": true
       }
-      ```
-`  * 登出
+   * 登出
            get访问http://account.geetest.com/layout/
       ```
        {
