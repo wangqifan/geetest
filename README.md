@@ -5,12 +5,12 @@
 
 安装
 ------------
-如果你是linux用户 For Linux 
+如果你是linux用户 For Linux <br>
 
   
    pip install -r requirements.txt
 
-如果你是 Windows用户, 
+如果你是 Windows用户, <br>
     pass
 
 运行
@@ -28,6 +28,12 @@
       ```
       python test.py
       `
+      
+技术介绍
+-------
+  * web framework -flask
+  * 数据访问 flask-sqlalchemy
+  * session缓存 redis
       
 API 文档
 -------
@@ -75,4 +81,8 @@ API 文档
       }
      ```
    
-   
+  既然来了，别走
+  -----------
+  [一个简单的web框架，使用TCP去阻塞监听](https://github.com/wangqifan/SimpleWebFramework)<br>
+  [爬虫](https://github.com/wangqifan/ZhiHu)<br>
+  [布隆过滤器](https://github.com/wangqifan/BloomFilter)<br>
