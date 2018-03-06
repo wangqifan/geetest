@@ -17,7 +17,7 @@
 -------
   * 运行管理脚本
   ```
-   python manage.py
+      python manage.py
    ```
    * 运行服务
        ```
