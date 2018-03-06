@@ -20,16 +20,14 @@
    python manage.py
    ```
    * 运行服务
-   ```
-     $ python server.py
-     * Running on http://127.0.0.1:5000/
-     * Restarting with reloader
-     ```
-    * 运行测试
-    ```
-      python test.py
+       ```
+      python server.py
       ```
+      
+    * 运行测试
+      ```
+      python test.py
+      `
       
 API 文档
 -------
-
