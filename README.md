@@ -31,3 +31,14 @@
       
 API 文档
 -------
+  * 注册用户
+   get和post都可以，以get为例 http://account.geetest.com/reg/?username='hello'&password='world'
+   返回json例如
+   
+   ```
+   {
+  "message": "注册成功", 
+  "success": true
+}
+   ```
+   
