@@ -36,9 +36,20 @@ API 文档
    返回json例如
    
    ```
-   {
-  "message": "注册成功", 
-  "success": true
-}
+     {
+              "message": "注册成功", 
+               "success": true
+     }
    ```
+   * 登录
+     get和post都可以，以get为例 http://account.geetest.com/reg/?username='hello'&password='world'
+     返回json，例如
+     ```
+            {
+              "message": "登录成功", 
+               "success": true
+             }
+     ```
+     
+   
    
