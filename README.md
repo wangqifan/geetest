@@ -50,8 +50,7 @@ API 文档
            "success": true
       }
       ```
-      * 登出
-      
+`  * 登出
            get访问http://account.geetest.com/layout/
       ```
        {
